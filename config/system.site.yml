@@ -1,0 +1,14 @@
+uuid: 58e4a44f-f2d8-4646-90c7-2aaf01220950
+name: pantheon-d8-composer-project-nasrin
+mail: pavel.bhuiyah@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
